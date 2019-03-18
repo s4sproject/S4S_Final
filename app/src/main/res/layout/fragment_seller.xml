@@ -242,7 +242,7 @@
                                 android:layout_weight="1"
                                 android:isIndicator="false"
                                 android:progressTint="@color/com_facebook_button_background_color"
-                                android:stepSize="5"
+                                
                                 android:visibility="visible" />
                         </android.support.design.widget.TextInputLayout>
 
